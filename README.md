@@ -1,4 +1,18 @@
+<div align="center">
+
+<img src="docs/banner.svg" alt="v-universal banner" width="1000">
+
 # V-UNIVERSAL
+
+[![CI](https://img.shields.io/badge/CI-pytest%20%2B%20ruff-blue)](.github/workflows/ci.yml)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org)
+[![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
+[![Built with uv](https://img.shields.io/badge/built%20with-uv-purple)](https://docs.astral.sh/uv/)
+
+</div>
+
+---
+
 
 > One versioning model — `trunk + version tree` — applied to **nine**
 > different domains. Hardware, quantum, biology, physics, math, law,

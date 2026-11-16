@@ -19,10 +19,6 @@
 > economy and consciousness, all modelled with the same three
 > primitives: `fork / write / commit`.
 
-[![CI](https://img.shields.io/badge/CI-pytest%20%2B%20ruff-blue)](.github/workflows/ci.yml)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org)
-[![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
-[![Built with uv](https://img.shields.io/badge/built%20with-uv-purple)](https://docs.astral.sh/uv/)
 
 Documentation in other languages: [**Русский**](README.ru.md)
 

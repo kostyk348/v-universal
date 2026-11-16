@@ -64,7 +64,7 @@ tests.
 ## Installation
 
 ```bash
-git clone https://github.com/your-org/v-universal.git
+git clone https://github.com/kostyk348/v-universal.git
 cd v-universal
 uv sync --extra dev         # or: pip install -e ".[dev]"
 pytest                      # <1 second on CPU
